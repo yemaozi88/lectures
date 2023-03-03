@@ -1,2 +1,1 @@
-# lectures
-demos for lectures
+# demos for lectures
